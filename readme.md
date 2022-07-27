@@ -28,5 +28,5 @@ Get Requirements :
 ```-> YourPathPython -m pip install -r requirements.txt```
 
 Run Server Uvicorn :
-```-> uvicorn [script]:app --reload --host LOCALHOST --port PORT``
+```-> uvicorn [script]:app --reload --host LOCALHOST --port PORT```
 
